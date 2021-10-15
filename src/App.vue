@@ -1,5 +1,10 @@
 <template>
-  <FlipCard />
+  <FlipCard width="150px" height="300px">
+    <template v-slot:back> B </template>
+    <template v-slot:front>
+      <img src="https://placekitten.com/300/300" alt="" />
+    </template>
+  </FlipCard>
 </template>
 
 <script>
