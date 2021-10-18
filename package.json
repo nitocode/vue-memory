@@ -1,5 +1,5 @@
 {
-  "name": "vue-3",
+  "name": "vue-memory-poc",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -40,5 +40,5 @@
     "not dead"
   ],
   "keywords": [],
-  "description": ""
+  "description": "A vuejs 3 memory game"
 }

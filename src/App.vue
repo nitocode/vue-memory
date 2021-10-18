@@ -22,6 +22,7 @@ export default {
   data() {
     return {
       gameOver: false,
+      /* background by SVGBackgrounds.com */
       cardsData: [
         {
           id: 1,
